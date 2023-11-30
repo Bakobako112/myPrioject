@@ -84,7 +84,7 @@ function findInvalidCards(cards) {
         if (validateCred(currentCard) == false) {
             ret.push(currentCard);
         }
-    } // omgggggg 😢 :D LOL
+    }
 
     return ret;
 
